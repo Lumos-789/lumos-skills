@@ -1,0 +1,14 @@
+{
+  "name": "lumos-skills",
+  "owner": {
+    "name": "Lumos-789",
+    "url": "https://github.com/Lumos-789"
+  },
+  "plugins": [
+    {
+      "name": "context-base",
+      "description": "Initialize a repository as a durable agent working base: entry instruction file, workspace layout, knowledge layer, operating discipline, and weekly governance.",
+      "source": "./plugins/context-base"
+    }
+  ]
+}
